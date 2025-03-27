@@ -6,7 +6,7 @@
 
 A modern, responsive portfolio website showcasing my work as a Frontend Developer & Designer.
 
-![Portfolio Preview](public/assets/portfolio-preview.png)
+![Portfolio Preview](public/assets/portfolio_preview.png)
 
 ## ✨ Features
 

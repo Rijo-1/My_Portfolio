@@ -59,7 +59,7 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
           <AnimatedSection className="flex flex-col justify-center" animation="slide-in-left">
             <div className="space-y-4">
-              <p className="text-[var(--brand-accent)] font-medium overflow-hidden whitespace-nowrap border-r-2 border-[var(--brand-accent)] pr-1">Frontend Developer & Designer</p>
+              <p className="text-[var(--brand-accent)] font-medium overflow-hidden animate-typing whitespace-nowrap border-r-2 border-[var(--brand-accent)] pr-1">Frontend Developer & Designer</p>
               <h1 
                 ref={titleRef} 
                 className="text-reveal text-5xl md:text-6xl lg:text-7xl font-bold text-[var(--text-primary)] transition-transform duration-300"
